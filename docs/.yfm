@@ -1,1 +1,3 @@
 langs: ['en']
+search:
+  provider: local
